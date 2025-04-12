@@ -1,7 +1,7 @@
 ## Hi there 
 
 ## 👋 About Me
-Hi, I'm Devang RAna, a detail-oriented QA tester with a strong foundation in manual and automated testing. I recently completed a QA Bootcamp and am passionate about finding bugs and improving product quality.
+Hi, I'm Devang Rana, a detail-oriented QA tester with a strong foundation in manual and automated testing. I am passionate about finding bugs and improving product quality.
 
 ## 🧪 Skills & Tools
 - Manual Testing
@@ -13,7 +13,7 @@ Hi, I'm Devang RAna, a detail-oriented QA tester with a strong foundation in man
 
 ## 🧠 Projects
 
-### 🛒 E-commerce Website Testing
+### 🛒 Banking Website Testing
 - **Type**: Manual Testing
 - **What I did**: Created test cases, executed regression tests, reported bugs via Jira.
 - **Artifacts**:
@@ -28,6 +28,6 @@ Hi, I'm Devang RAna, a detail-oriented QA tester with a strong foundation in man
 
 ## 📄 Resume & Contact
 - [Download Resume (PDF)](link)
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Email](mailto:your@email.com)
+- [LinkedIn](linkedin.com/in/devang-rana-5a06a632b)
+- [Email](devangsrana@gmail.com)
 
