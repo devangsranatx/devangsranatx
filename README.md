@@ -1,33 +1,30 @@
-## Hi there 
+# 👋 Hi, I'm Devangsranatx – QA Tester | Manual & Automation | Azure Certified
 
-## 👋 About Me
-Hi, I'm Devang Rana, a detail-oriented QA tester with a strong foundation in manual and automated testing. I am passionate about finding bugs and improving product quality.
+🚀 I’m a QA Tester with **5+ years of experience** across **healthcare, banking, finance, and insurance** domains — specializing in high-stakes, precision-driven testing for mission-critical systems.
 
-## 🧪 Skills & Tools
-- Manual Testing
-- Test Case Writing
-- Bug Reporting (JIRA)
-- API Testing (Postman)
-- Automation Testing (Tosca)
-- SQL Basics
+## 🧰 My Toolbox
+- **Testing Tools:** Selenium, TestNG, Postman, Tosca, JMeter, Cypress, Jira
+- **Cloud & Platforms:** Microsoft Azure (Certified)
+- **Other Skills:** SQL, Agile/Scrum, Defect Management, UAT, API Testing
+- **QA Styles:** Manual Testing • Automation Testing • Functional Testing • Regression Testing
 
-## 🧠 Projects
+## 🏆 Career Highlights
+- ✅ Delivered flawless QA for financial apps used by thousands of customers
+- ⏱️ Optimized testing processes — cut test cycles by **25%**
+- 🔎 Caught high-impact defects before production, saving $$$
 
-### 🛒 Banking Website Testing
-- **Type**: Manual Testing
-- **What I did**: Created test cases, executed regression tests, reported bugs via Jira.
-- **Artifacts**:
-  - [Test Plan (PDF)](link)
-  - [Bug Report (PDF)](link)
+## 📂 Featured Projects
+- 🔍 [Wells Fargo Store Locator – Manual QA Project](https://github.com/YOUR_USERNAME/wellsfargo-store-locator-testing)
+- 🧪 [KTHub.ai – UAT QA Testing (Student Section)](https://github.com/YOUR_USERNAME/kthubai-uat-student-testing)
+- ☁️ [Azure Fundamentals Certification](https://github.com/YOUR_USERNAME/azure-certifications)
 
-### 📱 Mobile App API Testing
-- **Type**: API Testing with Postman
-- **What I did**: Created and ran requests, validated responses and status codes.
-- **Artifacts**:
-  - [Postman Collection](link)
+## 📫 Let’s Connect!
+I’m passionate about ensuring **flawless software releases**.  
+Whether you’re hiring or collaborating, let’s build something robust together.  
+🔗 [LinkedIn](https://www.linkedin.com/in/devang-rana-5a06a632b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuOeKWjsdSMmzvmbGH%2BKYKg%3D%3D)
 
-## 📄 Resume & Contact
-- [Download Resume (PDF)](link)
-- [LinkedIn](linkedin.com/in/devang-rana-5a06a632b)
-- [Email](devangsrana@gmail.com)
+---
+
+*🧪 Devangsranatx | QA Engineer | Automation | Cloud | Always Testing for Better.*
+
 
