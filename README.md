@@ -14,9 +14,10 @@
 - 🔎 Caught high-impact defects before production, saving $$$
 
 ## 📂 Featured Projects
-- 🔍 [Wells Fargo Store Locator – Manual QA Project](https://github.com/YOUR_USERNAME/wellsfargo-store-locator-testing)
-- 🧪 [KTHub.ai – UAT QA Testing (Student Section)](https://github.com/YOUR_USERNAME/kthubai-uat-student-testing)
-- ☁️ [Azure Fundamentals Certification](https://github.com/YOUR_USERNAME/azure-certifications)
+- 🔍 [Wells Fargo Store Locator – Manual QA Project](https://github.com/devangsranatx/wellsfargo-store-locator-testing)
+- 🧪 [KTHub.ai – UAT QA Testing (Student Section)](https://github.com/devangsranatx/kthubai-uat-student-testing)
+- ☁️ [Azure Fundamentals Certification](https://github.com/devangsranatx/azure-certifications)
+- 🎓 [QA Bootcamp Certification – H2K Infosys (PDF)](https://github.com/devangsranatx/qa-certifications/blob/main/qa-bootcamp-certificate.pdf)
 
 ## 📫 Let’s Connect!
 I’m passionate about ensuring **flawless software releases**.  
