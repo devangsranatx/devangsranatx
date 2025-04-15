@@ -16,7 +16,7 @@
 ## 📂 Featured Projects
 - 🔍 [Wells Fargo Store Locator – Manual QA Project](https://github.com/devangsranatx/wellsfargo-store-locator-testing)
 - 🧪 [KTHub.ai – UAT QA Testing (Student Section)](https://github.com/devangsranatx/kthubai-uat-student-testing)
-- ☁️ [Azure Fundamentals Certification]([View Azure Fundamentals Certificate](https://github.com/devangsranatx/azure-certs)
+- ☁️ [View Azure Fundamentals Certificate](https://github.com/devangsranatx/azure-certs)
 - 🎓 [QA Bootcamp Certification – H2K Infosys (PDF)](https://github.com/devangsranatx/qa-certifications/blob/main/qa-bootcamp-certificate.pdf)
 
 ## 📫 Let’s Connect!
