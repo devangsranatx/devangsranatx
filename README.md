@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Devangsranatx – QA Tester | Manual & Automation | Azure Certified
 
-🚀 I’m a QA Tester with **5+ years of experience** across **healthcare, banking, finance, and insurance** domains — specializing in high-stakes, precision-driven testing for mission-critical systems.
+🚀 I’m a QA Tester with **2+ years of experience** across **healthcare, banking, finance, and insurance** domains — specializing in high-stakes, precision-driven testing for mission-critical systems.
 
 ## 🧰 My Toolbox
 - **Testing Tools:** Selenium, TestNG, Postman, Tosca, JMeter, Cypress, Jira
